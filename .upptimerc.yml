@@ -4,8 +4,7 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Jira
-    url: https://jira.ncdhhs.gov
+
   - name: Hacker News
     url: https://news.ycombinator.com
 #   - name: Broken Site
