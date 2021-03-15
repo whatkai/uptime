@@ -4,7 +4,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 449,
     "timeMonth": 401,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-15": 0
+    }
   }
 ]
