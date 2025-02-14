@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 360,
-    "timeWeek": 347,
-    "timeMonth": 348,
-    "timeYear": 309,
+    "timeDay": 351,
+    "timeWeek": 343,
+    "timeMonth": 340,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2024-04-26": 18
     }
